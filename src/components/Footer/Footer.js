@@ -79,7 +79,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p style={{ height: "120px", textAlign: "center", fontWeight: "bold", padding: "30px", fontFamily: "Besley" }}><small> ©copyright  <span style={{ color: "rgb(214, 14, 114)" }}>Amily Shahrin</span>@Fashion <span style={{ color: "rgb(214, 14, 114)" }}>Design</span> </small></p>
+      <p style={{ height: "120px", textAlign: "center", fontWeight: "bold", padding: "30px", fontFamily: "Besley" }}><small> ©copyright  <span style={{ color: "rgb(214, 14, 114)" }}>Arti jha</span>@Fashion <span style={{ color: "rgb(214, 14, 114)" }}>Design</span> </small></p>
 
     </div>
 
