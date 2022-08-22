@@ -2,8 +2,6 @@ import React from 'react';
 import './Footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faInstagramSquare, faTwitterSquare, faYoutube, faFacebookSquare, } from '@fortawesome/free-brands-svg-icons'
-import { faPhoneSquare, faLocationArrow, faSortDown } from '@fortawesome/free-solid-svg-icons'
-
 const Footer = () => {
   return (
     <div>
@@ -66,38 +64,14 @@ const Footer = () => {
                   type="text"
                   placeholder="Enter Your Active Email"
                 />
-                <div className="phone d-flex align-items-center justify-content-center mt-4">
-                  <div className="foter-phone-icon">
-                    <FontAwesomeIcon icon={faPhoneSquare} />
-                  </div>
-                  <div>
-                    <h5 style={{ fontFamily: "Besley" }}> <small> Fax Number : </small>+1 323 555 1234</h5>
-                  </div>
-                </div>
-                <div className="map d-flex align-items-center justify-content-center">
-
-                  <div>
-                    <p> <span className="foter-phone-icon" style={{ fontFamily: "Besley" }}><FontAwesomeIcon icon={faLocationArrow} />
-                      Address : House 48 Rd No 13C, Dhaka 1213</span>
-                      <br />
-                      <p style={{ fontFamily: "Besley" }}>Hours: Open ⋅ Closes 10:30PM  <span className="foter-phone-icon">
-                        <FontAwesomeIcon icon={faSortDown} />
-
-                      </span></p>
-
-
-                    </p>
-
-
-                  </div>
-                </div>
+                
               </div>
             </div>
 
           </div>
         </div>
       </div>
-      <p style={{ height: "120px", textAlign: "center", fontWeight: "bold", padding: "30px", fontFamily: "Besley" }}><small> ©copyright  <span style={{ color: "rgb(214, 14, 114)" }}>Amily Shahrin</span>@Fashion <span style={{ color: "rgb(214, 14, 114)" }}>Design</span> </small></p>
+      <p style={{ height: "120px", textAlign: "center", fontWeight: "bold", padding: "30px", fontFamily: "Besley" }}><small> ©copyright  <span style={{ color: "rgb(214, 14, 114)" }}>Arti kumarinp</span>@Fashion <span style={{ color: "rgb(214, 14, 114)" }}>Design</span> </small></p>
 
     </div>
 
