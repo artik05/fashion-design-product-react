@@ -67,29 +67,11 @@ const Footer = () => {
                   placeholder="Enter Your Active Email"
                 />
                 <div className="phone d-flex align-items-center justify-content-center mt-4">
-                  <div className="foter-phone-icon">
-                    <FontAwesomeIcon icon={faPhoneSquare} />
-                  </div>
-                  <div>
-                    <h5 style={{ fontFamily: "Besley" }}> <small> Fax Number : </small>+1 323 555 1234</h5>
-                  </div>
+                
                 </div>
                 <div className="map d-flex align-items-center justify-content-center">
 
-                  <div>
-                    <p> <span className="foter-phone-icon" style={{ fontFamily: "Besley" }}><FontAwesomeIcon icon={faLocationArrow} />
-                      Address : House 48 Rd No 13C, Dhaka 1213</span>
-                      <br />
-                      <p style={{ fontFamily: "Besley" }}>Hours: Open ⋅ Closes 10:30PM  <span className="foter-phone-icon">
-                        <FontAwesomeIcon icon={faSortDown} />
-
-                      </span></p>
-
-
-                    </p>
-
-
-                  </div>
+                  
                 </div>
               </div>
             </div>
